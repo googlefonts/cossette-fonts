@@ -33,7 +33,7 @@ fontmake==3.10.1
 fontMath==0.9.4
 fontParts==0.13.2
 fontPens==0.2.4
-fonttools==4.59.0
+fonttools==4.61.0
 freetype-py==2.3.0
 future==1.0.0
 gflanguages==0.7.6
